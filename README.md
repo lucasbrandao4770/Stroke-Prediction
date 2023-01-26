@@ -1,2 +1,32 @@
 # Stroke-Prediction
-Projeto desenvolvido para a matéria de Aprendizado Supervisionado do professor Lucas Araújo Pereira (UFG).
+Project developed for the Supervised Learning course taught by Professor Lucas Araújo Pereira (UFG).
+
+<!-- ACKNOWLEDGMENTS
+https://github.com/othneildrew/Best-README-Template/
+-->
+
+# Preprocessing
+<a name="readme-top"></a>
+
+
+<!-- ROADMAP -->
+## Preprocessing Steps
+- [ ] Removing Outliers
+- [ ] One-Hot-Encoding of categorical variables
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+# Otimization
+- [ ] Cross Validation (K-Fold)
+- [ ] Comparison between models
+- [ ] Better metrics generation
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+## License
+
+Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
