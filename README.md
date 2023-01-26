@@ -10,6 +10,11 @@ https://github.com/othneildrew/Best-README-Template/
 
 
 <!-- ROADMAP -->
+## To-do Checklist
+- [ ] Find a way to manage the imbalanced data
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Preprocessing Steps
 - [ ] Removing Outliers
 - [ ] One-Hot-Encoding of categorical variables
