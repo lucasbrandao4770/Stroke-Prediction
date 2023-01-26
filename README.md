@@ -16,7 +16,8 @@ https://github.com/othneildrew/Best-README-Template/
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Preprocessing Steps
-- [ ] Removing Outliers
+- [ ] Take care of Outliers
+- [ ] Take care of NaN
 - [ ] One-Hot-Encoding of categorical variables
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
